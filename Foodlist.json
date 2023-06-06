@@ -1,0 +1,167 @@
+{
+  "foodList": [
+    {
+      "id": 1,
+      "title": "Butter Chicken",
+      "description": "Creamy tomato-based chicken curry",
+      "veg": false,
+      "rating": 4.8,
+      "price": "$12",
+      "specialties": ["North Indian", "Mughlai"]
+    },
+    {
+      "id": 2,
+      "title": "Paneer Tikka",
+      "description": "Grilled cottage cheese marinated in spices",
+      "veg": true,
+      "rating": 4.5,
+      "price": "$10",
+      "specialties": ["North Indian", "Appetizer"]
+    },
+    {
+      "id": 3,
+      "title": "Masala Dosa",
+      "description": "Crispy rice and lentil crepe filled with spiced potato",
+      "veg": true,
+      "rating": 4.7,
+      "price": "$8",
+      "specialties": ["South Indian", "Breakfast"]
+    },
+    {
+      "id": 4,
+      "title": "Chicken Biryani",
+      "description": "Fragrant rice dish with spiced chicken",
+      "veg": false,
+      "rating": 4.6,
+      "price": "$14",
+      "specialties": ["Hyderabadi", "Rice Dish"]
+    },
+    {
+      "id": 5,
+      "title": "Chole Bhature",
+      "description": "Chickpea curry served with deep-fried bread",
+      "veg": true,
+      "rating": 4.4,
+      "price": "$9",
+      "specialties": ["North Indian", "Street Food"]
+    },
+    {
+      "id": 6,
+      "title": "Rogan Josh",
+      "description": "Spicy lamb curry cooked in aromatic spices",
+      "veg": false,
+      "rating": 4.9,
+      "price": "$15",
+      "specialties": ["Kashmiri", "Mutton Dish"]
+    },
+    {
+      "id": 7,
+      "title": "Gulab Jamun",
+      "description": "Deep-fried milk dumplings soaked in sugar syrup",
+      "veg": true,
+      "rating": 4.7,
+      "price": "$6",
+      "specialties": ["Dessert", "Sweet"]
+    },
+    {
+      "id": 8,
+      "title": "Pani Puri",
+      "description": "Crispy hollow puri filled with tangy water and chutney",
+      "veg": true,
+      "rating": 4.3,
+      "price": "$5",
+      "specialties": ["Street Food", "Snack"]
+    },
+    {
+      "id": 9,
+      "title": "Fish Curry",
+      "description": "Spicy and tangy curry made with fish",
+      "veg": false,
+      "rating": 4.5,
+      "price": "$13",
+      "specialties": ["Coastal", "Seafood"]
+    },
+    {
+      "id": 10,
+      "title": "Samosa",
+      "description": "Deep-fried pastry filled with spiced potatoes and peas",
+      "veg": true,
+      "rating": 4.2,
+      "price": "$4",
+      "specialties": ["Snack", "Street Food"]
+    },
+    {
+      "id": 11,
+      "title": "Dal Makhani",
+      "description": "Creamy lentils cooked with butter and spices",
+      "veg": true,
+      "rating": 4.7,
+      "price": "$8",
+      "specialties": ["Main Course", "Dal"]
+    },
+    {
+      "id": 12,
+      "title": "Aloo Gobi",
+      "description": "Potato and cauliflower curry",
+      "veg": true,
+      "rating": 4.6,
+      "price": "$9",
+      "specialties": ["Vegetarian", "Dry Curry"]
+    },
+    {
+      "id": 13,
+      "title": "Rajma Chawal",
+      "description": "Red kidney beans curry served with rice",
+      "veg": true,
+      "rating": 4.4,
+      "price": "$9",
+      "specialties": ["Punjabi", "Rice Dish"]
+    },
+    {
+      "id": 14,
+      "title": "Chicken Tikka Masala",
+      "description": "Grilled chicken in a creamy tomato sauce",
+      "veg": false,
+      "rating": 4.7,
+      "price": "$14",
+      "specialties": ["Main Course", "Chicken"]
+    },
+    {
+      "id": 15,
+      "title": "Malai Kofta",
+      "description": "Dumplings made of cheese and vegetables in a creamy sauce",
+      "veg": true,
+      "rating": 4.6,
+      "price": "$11",
+      "specialties": ["Vegetarian", "Creamy Curry"]
+    },
+    {
+      "id": 16,
+      "title": "Tandoori Roti",
+      "description": "Traditional Indian bread baked in a clay oven",
+      "veg": true,
+      "rating": 4.3,
+      "price": "$2",
+      "specialties": ["Bread", "Tandoori"]
+    },
+    {
+      "id": 17,
+      "title": "Punjabi Chole",
+      "description": "Spiced chickpea curry",
+      "veg": true,
+      "rating": 4.5,
+      "price": "$8",
+      "specialties": ["Vegetarian", "Chickpea"]
+    },
+    {
+      "id": 18,
+      "title": "Kadai Paneer",
+      "description": "Paneer cooked with bell peppers and spices",
+      "veg": true,
+      "rating": 4.2,
+      "price": "$10",
+      "specialties": ["Paneer", "Spicy Curry"]
+    }
+  ]
+}
+
