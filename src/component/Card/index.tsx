@@ -1,9 +1,9 @@
 /* eslint-disable react-native/no-inline-styles */
 /* eslint-disable react/react-in-jsx-scope */
-import {TouchableOpacity, Text, View, Image} from 'react-native';
+import {TouchableOpacity, Text, Image} from 'react-native';
 import {styles} from '../../styles/rootStyle';
 import {FoodList} from '../../utils/RawData';
-import {AirbnbRating, Rating} from 'react-native-elements';
+import {AirbnbRating} from 'react-native-elements';
 
 export const FoodItemCard = ({
   item,
